@@ -14,5 +14,10 @@
   },
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/jithubaiju55/auto-comment-code.git"
+}
+
 }
