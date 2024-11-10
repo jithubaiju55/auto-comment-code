@@ -1,0 +1,19 @@
+
+---
+
+### 2. **.gitignore**
+
+```plaintext
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Test output files
+*.commented.js
+
+# System files
+.DS_Store
+Thumbs.db
